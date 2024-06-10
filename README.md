@@ -1,12 +1,9 @@
 ---
 
-This repository is no longer maintained. The last update was in 2020, and there are no plans for future updates or support. The content here is provided "as-is" without any guarantees.
-
-For any questions, please contact [rdWei](https://www.instagram.com/rdWe_i/)
+The content here is provided "as-is" without any guarantees.
 
 _I'll only respond to those proposals that are a good match for my schedule and interests, thank you._
 
-[support me](https://www.github.com/rdWei)
 
 ---
 
@@ -29,10 +26,9 @@ Social Media Hacking Toolkit
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/release-v0.3.3-141449" alt=""/>
-  <img src="https://img.shields.io/badge/written in-python | php-141449" alt=""/>
-  <img src="https://img.shields.io/badge/author-rdWei-141449" alt=""/>
+  <img src="https://img.shields.io/badge/written in-python  -141449" alt=""/>
  <h6><p align="center" style="color:yellow">
-    <i>please read at least the section regarding <a href="https://github.com/rdWei/SocialMediaHackingToolkit#Trustability">trustability</a>
+    <i>please read at least the section regarding <a href="https://github.com/Rapha29/SocialMediaHackingToolkit">trustability</a>
 </i></a>
 </p></h6>
 
